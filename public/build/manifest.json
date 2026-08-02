@@ -1,39 +1,39 @@
 {
-  "_AdminLayout-BKliddDz.js": {
-    "file": "assets/AdminLayout-BKliddDz.js",
+  "_AdminLayout-D_sRBWqI.js": {
+    "file": "assets/AdminLayout-D_sRBWqI.js",
     "name": "AdminLayout",
     "imports": [
       "resources/js/app.js"
     ]
   },
-  "_PlatformBadge-Bjqu7a91.js": {
-    "file": "assets/PlatformBadge-Bjqu7a91.js",
+  "_PlatformBadge-DYYJzZRZ.js": {
+    "file": "assets/PlatformBadge-DYYJzZRZ.js",
     "name": "PlatformBadge",
     "imports": [
       "resources/js/app.js"
     ]
   },
-  "_StatusBadge-BPY58Nxg.js": {
-    "file": "assets/StatusBadge-BPY58Nxg.js",
+  "_StatusBadge-Bd4ANkuU.js": {
+    "file": "assets/StatusBadge-Bd4ANkuU.js",
     "name": "StatusBadge",
     "imports": [
       "resources/js/app.js"
     ]
   },
-  "_sparkles-DnE2-SXa.js": {
-    "file": "assets/sparkles-DnE2-SXa.js",
+  "_sparkles-DxXgIIiz.js": {
+    "file": "assets/sparkles-DxXgIIiz.js",
     "name": "sparkles",
     "imports": [
-      "_AdminLayout-BKliddDz.js"
+      "_AdminLayout-D_sRBWqI.js"
     ]
   },
   "resources/css/app.css": {
-    "file": "assets/app-CIaJzd0G.css",
+    "file": "assets/app-DrzTNUK7.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
   "resources/js/Pages/Auth/Login.vue": {
-    "file": "assets/Login-BvPxu_L9.js",
+    "file": "assets/Login-u5LNWDcO.js",
     "name": "Login",
     "src": "resources/js/Pages/Auth/Login.vue",
     "isDynamicEntry": true,
@@ -42,134 +42,134 @@
     ]
   },
   "resources/js/Pages/Calendar.vue": {
-    "file": "assets/Calendar-BmU0tGon.js",
+    "file": "assets/Calendar-CWwTr9cH.js",
     "name": "Calendar",
     "src": "resources/js/Pages/Calendar.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_AdminLayout-BKliddDz.js",
-      "_PlatformBadge-Bjqu7a91.js",
-      "_StatusBadge-BPY58Nxg.js",
+      "_AdminLayout-D_sRBWqI.js",
+      "_PlatformBadge-DYYJzZRZ.js",
+      "_StatusBadge-Bd4ANkuU.js",
       "resources/js/app.js"
     ]
   },
   "resources/js/Pages/Dashboard.vue": {
-    "file": "assets/Dashboard-DPZeQ4K2.js",
+    "file": "assets/Dashboard-DaBBGdjZ.js",
     "name": "Dashboard",
     "src": "resources/js/Pages/Dashboard.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_AdminLayout-BKliddDz.js",
-      "_PlatformBadge-Bjqu7a91.js",
-      "_StatusBadge-BPY58Nxg.js",
+      "_AdminLayout-D_sRBWqI.js",
+      "_PlatformBadge-DYYJzZRZ.js",
+      "_StatusBadge-Bd4ANkuU.js",
       "resources/js/app.js"
     ]
   },
   "resources/js/Pages/Posts/CreateWizard.vue": {
-    "file": "assets/CreateWizard-BONeDc4i.js",
+    "file": "assets/CreateWizard-CFHsADXC.js",
     "name": "CreateWizard",
     "src": "resources/js/Pages/Posts/CreateWizard.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.js",
-      "_AdminLayout-BKliddDz.js",
-      "_PlatformBadge-Bjqu7a91.js",
-      "_sparkles-DnE2-SXa.js"
+      "_AdminLayout-D_sRBWqI.js",
+      "_PlatformBadge-DYYJzZRZ.js",
+      "_sparkles-DxXgIIiz.js"
     ]
   },
   "resources/js/Pages/Posts/Index.vue": {
-    "file": "assets/Index-D4NCiKcP.js",
+    "file": "assets/Index-D-obz41s.js",
     "name": "Index",
     "src": "resources/js/Pages/Posts/Index.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.js",
-      "_AdminLayout-BKliddDz.js",
-      "_PlatformBadge-Bjqu7a91.js",
-      "_StatusBadge-BPY58Nxg.js"
+      "_AdminLayout-D_sRBWqI.js",
+      "_PlatformBadge-DYYJzZRZ.js",
+      "_StatusBadge-Bd4ANkuU.js"
     ]
   },
   "resources/js/Pages/Posts/Show.vue": {
-    "file": "assets/Show-BiLmPFcd.js",
+    "file": "assets/Show-hHiyH0Zn.js",
     "name": "Show",
     "src": "resources/js/Pages/Posts/Show.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_AdminLayout-BKliddDz.js",
-      "_PlatformBadge-Bjqu7a91.js",
-      "_StatusBadge-BPY58Nxg.js",
+      "_AdminLayout-D_sRBWqI.js",
+      "_PlatformBadge-DYYJzZRZ.js",
+      "_StatusBadge-Bd4ANkuU.js",
       "resources/js/app.js"
     ]
   },
   "resources/js/Pages/Settings/ApiConfiguration.vue": {
-    "file": "assets/ApiConfiguration-Kk93CU_Y.js",
+    "file": "assets/ApiConfiguration-D7LDI-W-.js",
     "name": "ApiConfiguration",
     "src": "resources/js/Pages/Settings/ApiConfiguration.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.js",
-      "_AdminLayout-BKliddDz.js",
-      "_PlatformBadge-Bjqu7a91.js",
-      "_sparkles-DnE2-SXa.js"
+      "_AdminLayout-D_sRBWqI.js",
+      "_PlatformBadge-DYYJzZRZ.js",
+      "_sparkles-DxXgIIiz.js"
     ]
   },
   "resources/js/Pages/Settings/ApiHealth.vue": {
-    "file": "assets/ApiHealth-slKhfNT8.js",
+    "file": "assets/ApiHealth-D77i3Phf.js",
     "name": "ApiHealth",
     "src": "resources/js/Pages/Settings/ApiHealth.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_AdminLayout-BKliddDz.js",
-      "_PlatformBadge-Bjqu7a91.js",
-      "_StatusBadge-BPY58Nxg.js",
+      "_AdminLayout-D_sRBWqI.js",
+      "_PlatformBadge-DYYJzZRZ.js",
+      "_StatusBadge-Bd4ANkuU.js",
       "resources/js/app.js"
     ]
   },
   "resources/js/Pages/Settings/Index.vue": {
-    "file": "assets/Index-DRXscjq9.js",
+    "file": "assets/Index-B9YGFVe5.js",
     "name": "Index",
     "src": "resources/js/Pages/Settings/Index.vue",
     "isDynamicEntry": true,
     "imports": [
       "resources/js/app.js",
-      "_AdminLayout-BKliddDz.js"
+      "_AdminLayout-D_sRBWqI.js"
     ]
   },
   "resources/js/Pages/Settings/OAuthRedirects.vue": {
-    "file": "assets/OAuthRedirects-BylBG_Pp.js",
+    "file": "assets/OAuthRedirects-C11qsB9X.js",
     "name": "OAuthRedirects",
     "src": "resources/js/Pages/Settings/OAuthRedirects.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_AdminLayout-BKliddDz.js",
-      "_PlatformBadge-Bjqu7a91.js",
+      "_AdminLayout-D_sRBWqI.js",
+      "_PlatformBadge-DYYJzZRZ.js",
       "resources/js/app.js"
     ]
   },
   "resources/js/Pages/Settings/SocialAccounts.vue": {
-    "file": "assets/SocialAccounts-DRG-aheV.js",
+    "file": "assets/SocialAccounts-Bp7acT9R.js",
     "name": "SocialAccounts",
     "src": "resources/js/Pages/Settings/SocialAccounts.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_AdminLayout-BKliddDz.js",
-      "_PlatformBadge-Bjqu7a91.js",
-      "_StatusBadge-BPY58Nxg.js",
+      "_AdminLayout-D_sRBWqI.js",
+      "_PlatformBadge-DYYJzZRZ.js",
+      "_StatusBadge-Bd4ANkuU.js",
       "resources/js/app.js"
     ]
   },
   "resources/js/Pages/Settings/Wizard.vue": {
-    "file": "assets/Wizard-Cv5ZEovb.js",
+    "file": "assets/Wizard-DcWcUkYc.js",
     "name": "Wizard",
     "src": "resources/js/Pages/Settings/Wizard.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_AdminLayout-BKliddDz.js",
+      "_AdminLayout-D_sRBWqI.js",
       "resources/js/app.js"
     ]
   },
   "resources/js/app.js": {
-    "file": "assets/app-BRZ3iHGH.js",
+    "file": "assets/app-UfC5se4d.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true,
@@ -188,7 +188,7 @@
       "resources/js/Pages/Settings/Wizard.vue"
     ],
     "css": [
-      "assets/app-CIaJzd0G.css"
+      "assets/app-DrzTNUK7.css"
     ]
   }
 }

@@ -11,20 +11,20 @@
         </div>
       </div>
 
-      <form @submit.prevent="submit" class="space-y-5">
+      <form @submit.prevent="submit" autocomplete="off" class="space-y-5">
         <div v-if="form.errors.email" class="p-3 rounded-xl bg-rose-500/10 border border-rose-500/30 text-rose-400 text-xs font-semibold">
           {{ form.errors.email }}
         </div>
 
         <div>
           <label class="block text-xs font-semibold text-slate-300 mb-1.5">Admin Email</label>
-          <input v-model="form.email" type="email" required autofocus placeholder="admin@socialpublisher.local"
+          <input v-model="form.email" type="email" required autofocus autocomplete="off" placeholder="Enter admin email"
                  class="w-full bg-slate-950 border border-slate-800 rounded-xl p-3 text-xs text-slate-100 focus:outline-none focus:border-indigo-500 transition" />
         </div>
 
         <div>
           <label class="block text-xs font-semibold text-slate-300 mb-1.5">Password</label>
-          <input v-model="form.password" type="password" required placeholder="••••••••"
+          <input v-model="form.password" type="password" required autocomplete="new-password" placeholder="••••••••"
                  class="w-full bg-slate-950 border border-slate-800 rounded-xl p-3 text-xs text-slate-100 focus:outline-none focus:border-indigo-500 transition" />
         </div>
 
@@ -40,10 +40,6 @@
           {{ form.processing ? 'Signing In...' : 'Sign In to Social Admin' }}
         </button>
       </form>
-
-      <div class="text-center pt-2 border-t border-slate-800/80 text-[11px] text-slate-500 font-mono">
-        Default Login: admin@socialpublisher.local / password
-      </div>
     </div>
   </div>
 </template>
@@ -52,9 +48,9 @@
 import { useForm } from '@inertiajs/vue3'
 
 const form = useForm({
-  email: 'admin@socialpublisher.local',
-  password: 'password',
-  remember: true,
+  email: '',
+  password: '',
+  remember: false,
 })
 
 function submit() {

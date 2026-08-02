@@ -1,4 +1,4 @@
-import{c as d,_ as p}from"./AdminLayout-BKliddDz.js";import{_ as x}from"./PlatformBadge-Bjqu7a91.js";import{o as s,h as u,i as m,a as e,c as r,F as _,r as f,j as c,t as y,b,g as h}from"./app-BRZ3iHGH.js";/**
+import{c as d,_ as p}from"./AdminLayout-D_sRBWqI.js";import{_ as x}from"./PlatformBadge-DYYJzZRZ.js";import{o as s,h as u,i as m,a as e,c as r,F as _,r as f,j as c,t as y,b,g as h}from"./app-UfC5se4d.js";/**
  * @license lucide-vue-next v0.475.0 - ISC
  *
  * This source code is licensed under the ISC license.
