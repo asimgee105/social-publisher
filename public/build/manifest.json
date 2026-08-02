@@ -1,0 +1,194 @@
+{
+  "_AdminLayout-BKliddDz.js": {
+    "file": "assets/AdminLayout-BKliddDz.js",
+    "name": "AdminLayout",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_PlatformBadge-Bjqu7a91.js": {
+    "file": "assets/PlatformBadge-Bjqu7a91.js",
+    "name": "PlatformBadge",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_StatusBadge-BPY58Nxg.js": {
+    "file": "assets/StatusBadge-BPY58Nxg.js",
+    "name": "StatusBadge",
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "_sparkles-DnE2-SXa.js": {
+    "file": "assets/sparkles-DnE2-SXa.js",
+    "name": "sparkles",
+    "imports": [
+      "_AdminLayout-BKliddDz.js"
+    ]
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-CIaJzd0G.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/Pages/Auth/Login.vue": {
+    "file": "assets/Login-BvPxu_L9.js",
+    "name": "Login",
+    "src": "resources/js/Pages/Auth/Login.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Calendar.vue": {
+    "file": "assets/Calendar-BmU0tGon.js",
+    "name": "Calendar",
+    "src": "resources/js/Pages/Calendar.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AdminLayout-BKliddDz.js",
+      "_PlatformBadge-Bjqu7a91.js",
+      "_StatusBadge-BPY58Nxg.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Dashboard.vue": {
+    "file": "assets/Dashboard-DPZeQ4K2.js",
+    "name": "Dashboard",
+    "src": "resources/js/Pages/Dashboard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AdminLayout-BKliddDz.js",
+      "_PlatformBadge-Bjqu7a91.js",
+      "_StatusBadge-BPY58Nxg.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Posts/CreateWizard.vue": {
+    "file": "assets/CreateWizard-BONeDc4i.js",
+    "name": "CreateWizard",
+    "src": "resources/js/Pages/Posts/CreateWizard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-BKliddDz.js",
+      "_PlatformBadge-Bjqu7a91.js",
+      "_sparkles-DnE2-SXa.js"
+    ]
+  },
+  "resources/js/Pages/Posts/Index.vue": {
+    "file": "assets/Index-D4NCiKcP.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Posts/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-BKliddDz.js",
+      "_PlatformBadge-Bjqu7a91.js",
+      "_StatusBadge-BPY58Nxg.js"
+    ]
+  },
+  "resources/js/Pages/Posts/Show.vue": {
+    "file": "assets/Show-BiLmPFcd.js",
+    "name": "Show",
+    "src": "resources/js/Pages/Posts/Show.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AdminLayout-BKliddDz.js",
+      "_PlatformBadge-Bjqu7a91.js",
+      "_StatusBadge-BPY58Nxg.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Settings/ApiConfiguration.vue": {
+    "file": "assets/ApiConfiguration-Kk93CU_Y.js",
+    "name": "ApiConfiguration",
+    "src": "resources/js/Pages/Settings/ApiConfiguration.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-BKliddDz.js",
+      "_PlatformBadge-Bjqu7a91.js",
+      "_sparkles-DnE2-SXa.js"
+    ]
+  },
+  "resources/js/Pages/Settings/ApiHealth.vue": {
+    "file": "assets/ApiHealth-slKhfNT8.js",
+    "name": "ApiHealth",
+    "src": "resources/js/Pages/Settings/ApiHealth.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AdminLayout-BKliddDz.js",
+      "_PlatformBadge-Bjqu7a91.js",
+      "_StatusBadge-BPY58Nxg.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Settings/Index.vue": {
+    "file": "assets/Index-DRXscjq9.js",
+    "name": "Index",
+    "src": "resources/js/Pages/Settings/Index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.js",
+      "_AdminLayout-BKliddDz.js"
+    ]
+  },
+  "resources/js/Pages/Settings/OAuthRedirects.vue": {
+    "file": "assets/OAuthRedirects-BylBG_Pp.js",
+    "name": "OAuthRedirects",
+    "src": "resources/js/Pages/Settings/OAuthRedirects.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AdminLayout-BKliddDz.js",
+      "_PlatformBadge-Bjqu7a91.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Settings/SocialAccounts.vue": {
+    "file": "assets/SocialAccounts-DRG-aheV.js",
+    "name": "SocialAccounts",
+    "src": "resources/js/Pages/Settings/SocialAccounts.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AdminLayout-BKliddDz.js",
+      "_PlatformBadge-Bjqu7a91.js",
+      "_StatusBadge-BPY58Nxg.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/Pages/Settings/Wizard.vue": {
+    "file": "assets/Wizard-Cv5ZEovb.js",
+    "name": "Wizard",
+    "src": "resources/js/Pages/Settings/Wizard.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "_AdminLayout-BKliddDz.js",
+      "resources/js/app.js"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BRZ3iHGH.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/Pages/Auth/Login.vue",
+      "resources/js/Pages/Calendar.vue",
+      "resources/js/Pages/Dashboard.vue",
+      "resources/js/Pages/Posts/CreateWizard.vue",
+      "resources/js/Pages/Posts/Index.vue",
+      "resources/js/Pages/Posts/Show.vue",
+      "resources/js/Pages/Settings/ApiConfiguration.vue",
+      "resources/js/Pages/Settings/ApiHealth.vue",
+      "resources/js/Pages/Settings/Index.vue",
+      "resources/js/Pages/Settings/OAuthRedirects.vue",
+      "resources/js/Pages/Settings/SocialAccounts.vue",
+      "resources/js/Pages/Settings/Wizard.vue"
+    ],
+    "css": [
+      "assets/app-CIaJzd0G.css"
+    ]
+  }
+}
